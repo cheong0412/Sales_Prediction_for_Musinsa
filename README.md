@@ -5,7 +5,7 @@
   - [📌 프로젝트 개요](#프로젝트-개요)
   - [📌 프로젝트 설명](#프로젝트-설명)
   - [📌 EDA](#EDA)
-  - [📌 분석 결과](#분석-결과)
+  - [분석 결과](#분석-결과)
   - [📌 기대 효과](#기대-효과)
   - [Lesson & Learned](#_Lesson_&_Learned)
 
@@ -44,7 +44,7 @@
 <img width="802" height="415" alt="8 리뷰데이터 워드 클라우드" src="https://github.com/user-attachments/assets/b0f7ba1f-3f19-47a9-aef3-8c292181634b" />
 
 
-## 📌 분석 결과
+## 분석 결과
 ### 1. 5개 회귀 모델 성능 비교
 <img width="717" height="615" alt="9 분석결과" src="https://github.com/user-attachments/assets/05ee7e3c-05ad-4401-bede-2f6293a5b237" />
 
