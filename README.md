@@ -7,7 +7,7 @@
   - [EDA](#EDA)
   - [분석 결과](#분석-결과)
   - [기대 효과](#기대-효과)
-  - [Lesson & Learned](#Lesson_&_Learned)
+  - [Lesson & Learned](#lesson--learned)
 
 ## 프로젝트 기본 정보
 - 프로젝트 이름: MUSINSA 판매량 예측
